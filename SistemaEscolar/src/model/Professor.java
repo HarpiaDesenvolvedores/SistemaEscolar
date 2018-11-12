@@ -5,7 +5,6 @@ public class Professor {
 	private String nome;
 	private int matricula;
 	
-		
 	
 	public Professor(String nome, int matricula) {
 		super();
